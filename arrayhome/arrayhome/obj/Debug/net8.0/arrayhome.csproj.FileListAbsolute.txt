@@ -1,0 +1,15 @@
+C:\Users\compusta\source\repos\arrayhome\arrayhome\bin\Debug\net8.0\arrayhome.exe
+C:\Users\compusta\source\repos\arrayhome\arrayhome\bin\Debug\net8.0\arrayhome.deps.json
+C:\Users\compusta\source\repos\arrayhome\arrayhome\bin\Debug\net8.0\arrayhome.runtimeconfig.json
+C:\Users\compusta\source\repos\arrayhome\arrayhome\bin\Debug\net8.0\arrayhome.dll
+C:\Users\compusta\source\repos\arrayhome\arrayhome\obj\Debug\net8.0\arrayhome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compusta\source\repos\arrayhome\arrayhome\obj\Debug\net8.0\arrayhome.AssemblyInfoInputs.cache
+C:\Users\compusta\source\repos\arrayhome\arrayhome\obj\Debug\net8.0\arrayhome.AssemblyInfo.cs
+C:\Users\compusta\source\repos\arrayhome\arrayhome\obj\Debug\net8.0\arrayhome.csproj.CoreCompileInputs.cache
+C:\Users\compusta\source\repos\arrayhome\arrayhome\obj\Debug\net8.0\arrayhome.sourcelink.json
+C:\Users\compusta\source\repos\arrayhome\arrayhome\obj\Debug\net8.0\arrayhome.dll
+C:\Users\compusta\source\repos\arrayhome\arrayhome\obj\Debug\net8.0\refint\arrayhome.dll
+C:\Users\compusta\source\repos\arrayhome\arrayhome\obj\Debug\net8.0\arrayhome.pdb
+C:\Users\compusta\source\repos\arrayhome\arrayhome\obj\Debug\net8.0\arrayhome.genruntimeconfig.cache
+C:\Users\compusta\source\repos\arrayhome\arrayhome\obj\Debug\net8.0\ref\arrayhome.dll
+C:\Users\compusta\source\repos\arrayhome\arrayhome\bin\Debug\net8.0\arrayhome.pdb
